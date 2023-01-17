@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+};
+
+
+
+    
+    
+.buns {
+    background-color: navy;
+    margin-left: 20px;
+    };
+
+.buns p {
+    background-color: lightblue;
+    };
+
+.boll{
+            color: lightblue
+
+};
